@@ -1,5 +1,5 @@
 Overview:
----------
+----------
 
 This project investigates the Exponential distribution in R and compares
 it with the Central Limit Theorem. The mean of the Exponential
