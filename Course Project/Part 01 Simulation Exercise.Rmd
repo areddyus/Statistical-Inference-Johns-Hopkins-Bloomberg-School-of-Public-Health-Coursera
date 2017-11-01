@@ -1,6 +1,6 @@
 ---
 title: "Statistical Inference Project Part 1 - A Simulation Exercise"
-author: "Utkarsh Ashok Pathrabe"
+author: "Areddy"
 output: md_document
 ---
 
